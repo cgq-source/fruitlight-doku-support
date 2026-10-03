@@ -6,4 +6,9 @@ body:has(#chinese:target) .languages a[href="#chinese"]{background:var(--gold);c
 body:has(#english:target) .languages a[href="#english"]{background:var(--gold);color:#292134;border-color:var(--gold)}
 body:has(#japanese:target) .languages a[href="#japanese"]{background:var(--gold);color:#292134;border-color:var(--gold)}
 body:has(#german:target) .languages a[href="#german"]{background:var(--gold);color:#292134;border-color:var(--gold)}
+body:has(#traditional-chinese:target) .languages a[href="#traditional-chinese"]{background:var(--gold);color:#292134;border-color:var(--gold)}
+body:has(#french:target) .languages a[href="#french"]{background:var(--gold);color:#292134;border-color:var(--gold)}
+body:has(#spanish:target) .languages a[href="#spanish"]{background:var(--gold);color:#292134;border-color:var(--gold)}
+body:has(#portuguese:target) .languages a[href="#portuguese"]{background:var(--gold);color:#292134;border-color:var(--gold)}
+body:has(#korean:target) .languages a[href="#korean"]{background:var(--gold);color:#292134;border-color:var(--gold)}
 header nav a:hover,.languages a:hover{filter:brightness(1.15)}
